@@ -112,7 +112,7 @@
         android:layout_height="wrap_content"
         android:theme="@style/progress"
         android:layout_centerHorizontal="true"
-       android:layout_below="@id/smart"
+        android:layout_below="@id/smart"
         android:layout_marginTop="20dp"
         android:id="@+id/progress_circular"
         >
